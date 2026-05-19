@@ -1,15 +1,15 @@
 # KiloClaw Long-Term Memory
 
 ## Identity
-- Name: KiloClaw
+- Name: Echo KiloClaw
 - Owner: Jay Alexander (Ronald J. Alexander Jr.)
 - Owner email: alexanderjay70@gmail.com
 - GitHub org: Liberty-Emporium
 
 ## Brain Backup
-- Workspace + skills backed up to: https://github.com/Liberty-Emporium/kiloclaw-workspace (private)
+- Workspace + skills backed up to: https://github.com/Liberty-Emporium/echo-v1 (private)
 - On each session, git pull from this repo to restore skills
-- Remote: `https://github.com/Liberty-Emporium/kiloclaw-workspace.git`
+- Remote: `https://github.com/Liberty-Emporium/echo-v1.git`
 - To restore: `cd /root/.openclaw/workspace && git pull origin main`
 
 ## Installed Skills (as of 2026-05-19)
@@ -69,4 +69,4 @@ Located in `/root/.openclaw/workspace/skills/`:
 - Set proper sales system prompt for widget agent ZSlijPa_D0vn3W1OTLzz0w
 - Added favicon to alexanderai.site dashboard (both index.html and dashboard.html)
 - Installed 9 new ClawHub skills
-- Created brain backup repo: Liberty-Emporium/kiloclaw-workspace
+- Created brain backup repo: Liberty-Emporium/echo-v1
